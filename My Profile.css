@@ -1,0 +1,58 @@
+.info{
+	margin-left: 20px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	
+}
+
+#title{
+	text-align: center;
+	height: 50px;
+}
+#name{
+	text-transform: uppercase;
+}
+#card{
+	margin: 100px auto;
+	height: 900px;
+	width: 600px;
+	background-color: #FFDAB9;
+	border-radius: 25px;
+	box-shadow:20px 20px 50px grey;  
+}
+
+top{
+	margin-top: 20px; 
+	margin-left: 60px; 
+}
+img{
+	margin-top: -12px;
+	margin-left: -10px;
+}
+#profilePic{
+	float: left;
+	margin-left: 10px;
+	height: 200px;
+	width: 200px;
+	border: 3px solid;
+	border-radius: 100px;
+}
+
+#details{
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+	height: 200px;
+	width: 350px;
+	background-color: white;
+	border-radius: 50px;
+}
+
+#summarySection{
+	float: left;
+	margin: 100px 75px;
+	height: 500px;
+	width: 450px;
+	background-color: white;
+	border-radius: 50px;
+	
+}
