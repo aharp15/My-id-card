@@ -25,7 +25,7 @@ top{
 	margin-left: 60px; 
 }
 img{
-	margin-top: -12px;
+	margin-top: -15px;
 	margin-left: -10px;
 }
 #profilePic{
@@ -55,4 +55,13 @@ img{
 	background-color: white;
 	border-radius: 50px;
 	
+}
+
+.colors{
+	height: 50px;
+	width: 50px;
+	border: 2px solid;
+	border-radius: 100px;
+	float: left;
+	margin: 0px 25px;
 }
