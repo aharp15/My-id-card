@@ -2,7 +2,6 @@ function $(id){
 	return document.getElementById(id);
 }
 
-window.onload = function(){
 	
 	
 	//Whenever we click on one of our dots
@@ -34,4 +33,3 @@ window.onload = function(){
 		//Next we need to access the HTML element of our card
 		$("card").style.backgroundColor = "green";
 	});
-}
